@@ -1,0 +1,72 @@
+books
+packaged food
+wall
+produce
+ceiling light
+ceiling
+medicine
+floor
+bedding
+tableware
+decor
+container
+chair
+tobacco
+beverage
+window
+window accessory
+utensils
+wardrobe
+wall art
+plant
+cabinet
+wine
+table
+toiletries
+bakery
+snacks and candy
+door
+towel
+stationery
+vase
+paper goods
+shower
+floor covering
+lamp
+bed
+stool
+mirror
+toy
+ventilation and heating
+faucet
+toilet
+television
+sofa
+column
+shelving
+computer
+refrigerator
+computer peripheral
+mattress
+clock
+desk
+cookware
+trash can
+fan
+monitor
+dishwasher
+oven
+dresser
+bookshelf
+microwave
+washing machine
+countertop
+bathtub
+electronics accessory
+range hood
+cooktop
+drawer
+bench
+stove
+sink
+staircase
