@@ -96,4 +96,3 @@ def prediction_in_original_view(mask, frame):
             mask, mapped[..., 0], mapped[..., 1], cv2.INTER_NEAREST,
             borderMode=cv2.BORDER_CONSTANT, borderValue=0)
     return result
-

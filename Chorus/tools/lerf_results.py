@@ -161,4 +161,3 @@ def save_comparison_reports(output_dir, report):
                'Voted_Selected_Gaussians':'Empty because voting is disabled.',
                'paths':'Relative to this scene output directory.'})
     write_json(output_dir/'evaluation_summary.json',manifest)
-

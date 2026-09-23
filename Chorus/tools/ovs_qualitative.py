@@ -121,4 +121,3 @@ def save_semantic_visualizations(output_dir, frames, results_by_query, classes, 
                     background=0, labels_are_one_based=True, frames=records)
     (folder / 'manifest.json').write_text(json.dumps(manifest, indent=2))
     return 'Coloured Mask results/manifest.json'
-

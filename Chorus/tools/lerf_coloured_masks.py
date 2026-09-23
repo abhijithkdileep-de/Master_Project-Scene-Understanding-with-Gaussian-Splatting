@@ -76,4 +76,3 @@ def save_coloured_mask_results(scene_output_dir, image_root, entries):
                     queries=queries, predictions=records, overviews=overviews)
     (output / 'manifest.json').write_text(json.dumps(manifest, indent=2))
     return (output / 'manifest.json').relative_to(scene_output_dir).as_posix()
-

@@ -156,4 +156,3 @@ def save_comparison_reports(output_dir, report):
         notes={'precision@IoU':'Fraction of query-mean IoUs meeting the cutoff, matching SceneSplat naming.',
                'paths':'Relative to this scene output directory.'})
     write_json(output_dir/'evaluation_summary.json',manifest)
-

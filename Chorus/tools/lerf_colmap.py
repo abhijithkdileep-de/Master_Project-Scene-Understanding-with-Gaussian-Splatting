@@ -251,4 +251,3 @@ def load_camera_data(colmap_sparse_folder):
     return cameras, images
 
 
-

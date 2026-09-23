@@ -1,0 +1,10 @@
+# Optional Mini Viewer runtime for package mode.
+# Keep this file synchronized with env.yaml, env_cu126.yaml, and tools/mini_viewer.py.
+
+gsplat==1.4.0
+viser==1.0.27
+nerfview==0.1.3
+splines==0.3.3
+sentencepiece==0.2.1
+imageio-ffmpeg==0.6.0
+git+https://github.com/RunyiYang/Mini_Viewer.git@6c8e5c938844487319a92e19f952e76cd4eba847
